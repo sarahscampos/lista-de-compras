@@ -1,21 +1,23 @@
 # Lista de Compras em NodeJs
 Banco de dados utilizado: MongoDB Atlas
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/10c9ba7f-1aa0-4d84-9b4a-08a9b62e88cd)
+
 
 ## Exibição da lista:
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/ecc879c9-b7dd-414c-bb91-d5f6ee99cc6b)
+![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/a900117a-ec3b-4ba3-a557-b7eda1cc527c)
 
 ## Edição de um item:
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/1ed629c0-479c-461e-8b11-eb12350fb9e3)
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/b191955d-8337-474e-b4f3-f8606891db6b)
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/fe5536e2-68e0-4d46-95e4-b4c219980366)
+![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/aa6893e0-8117-4f95-9383-e6df288671e9)
+![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/6eec26da-2cbf-48e6-bf5c-6bde2e0a315d)
+![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/7e24c843-f1fa-4e45-8ecc-bd636af60088)
 
 ## Remoção de um item:
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/f32b24d9-0ea9-4cf5-b7e1-9daab73c72b7)
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/f5c3a803-3765-4b84-9769-895f422c34cc)
+![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/f1be80fd-d97e-4f6d-969d-fa7db1988176)
+![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/583fd598-f8c1-492a-a9a7-d0276cb5dd74)
 
 ## Criação de um item: 
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/3bf2593a-9cae-40d5-948d-ecf42ecbb9bb)
-![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/0f604eef-db79-41c9-ae97-f970b8f12f52)
+![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/2bd05fdc-708d-4306-b5ff-1e56e647b511)
+![image](https://github.com/sarahscampos/lista-de-compras/assets/74733887/9b01d07c-f71d-45fc-bd22-d595b70f6322)
+
+
 
 
