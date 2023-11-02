@@ -1,5 +1,6 @@
 # Lista de Compras em NodeJs
 Desafio proposto na capacitação de NodeJs do IEEE
+
 Banco de dados utilizado: MongoDB Atlas
 
 
